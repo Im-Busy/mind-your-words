@@ -1,0 +1,11 @@
+{
+  "name": "mind-your-words-zh-clreq",
+  "description": "Reviews horizontal Chinese typography using selected W3C CLREQ guidance. Hybrid invocation - use for regional punctuation, mixed Chinese and Latin text, quotation marks, or line-break review. Do NOT use for translation, prose voice, vertical typesetting, academic formatting certification, or changing code and identifiers.\n",
+  "version": "0.3.0",
+  "license": "LicenseRef-W3C-2023",
+  "external_grounding": "cite-only",
+  "metadata": {
+    "skill-author": "project",
+    "invocation_posture": "hybrid"
+  }
+}

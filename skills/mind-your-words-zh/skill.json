@@ -1,0 +1,11 @@
+{
+  "name": "mind-your-words-zh",
+  "description": "Selects Chinese typography review for punctuation, mixed-script text, and line breaking. Hybrid invocation - use when Chinese writing needs a layout profile and the target is unclear. Do NOT use for English writing, translation, Chinese voice rewriting, academic submission rules, legal documents, or regulated maintenance instructions.\n",
+  "version": "0.3.0",
+  "license": "MIT",
+  "external_grounding": "n/a",
+  "metadata": {
+    "skill-author": "project",
+    "invocation_posture": "hybrid"
+  }
+}

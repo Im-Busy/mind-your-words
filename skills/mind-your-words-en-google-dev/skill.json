@@ -1,0 +1,11 @@
+{
+  "name": "mind-your-words-en-google-dev",
+  "description": "Revises English developer documentation using selected Google documentation guidance. Hybrid invocation - use for API explanations, setup guides, tutorials, integration instructions, and CLI help. Do NOT use for product UI copy, translation, academic submission rules, or regulated instructions.\n",
+  "version": "0.3.0",
+  "license": "CC-BY-4.0",
+  "external_grounding": "cite-only",
+  "metadata": {
+    "skill-author": "project",
+    "invocation_posture": "hybrid"
+  }
+}

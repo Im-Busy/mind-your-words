@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-06",
+  "sources": [
+    {
+      "id": "google-tone",
+      "title": "Google developer documentation style guide: Voice and tone",
+      "url": "https://developers.google.com/style/tone",
+      "license": "CC-BY-4.0",
+      "license_url": "https://developers.google.com/terms/site-policies",
+      "coverage": "Conversational technical tone, direct wording, and respect for the reader",
+      "revision": "Live page reviewed on the recorded date"
+    },
+    {
+      "id": "google-procedures",
+      "title": "Google developer documentation style guide: Procedures",
+      "url": "https://developers.google.com/style/procedures",
+      "license": "CC-BY-4.0",
+      "license_url": "https://developers.google.com/terms/site-policies",
+      "coverage": "Ordered instructions, context, action order, optional steps, and results",
+      "revision": "Live page reviewed on the recorded date"
+    },
+    {
+      "id": "google-tense",
+      "title": "Google developer documentation style guide: Present tense",
+      "url": "https://developers.google.com/style/tense",
+      "license": "CC-BY-4.0",
+      "license_url": "https://developers.google.com/terms/site-policies",
+      "coverage": "Present-tense descriptions with meaningful future events preserved",
+      "revision": "Live page reviewed on the recorded date"
+    },
+    {
+      "id": "microsoft-top-tips",
+      "title": "Microsoft Writing Style Guide: Top 10 tips for Microsoft style and voice",
+      "url": "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+      "license": "CC-BY-4.0",
+      "license_url": "https://github.com/MicrosoftDocs/microsoft-style-guide/blob/c6945c32294e845a84b192a094fb1b7c2c452a6a/LICENSE",
+      "coverage": "Reader priority, concise wording, sentence case, and conversational product prose",
+      "revision": "Source repository observed at c6945c32294e845a84b192a094fb1b7c2c452a6a; Learn page reviewed separately"
+    },
+    {
+      "id": "w3c-clreq",
+      "title": "Requirements for Chinese Text Layout",
+      "url": "https://www.w3.org/TR/2026/DNOTE-clreq-20261104/",
+      "license": "LicenseRef-W3C-2023",
+      "license_url": "https://www.w3.org/copyright/software-license-2023/",
+      "coverage": "Selected horizontal punctuation, quotations, mixed-script layout, and line-break considerations",
+      "revision": "W3C Group Note Draft, 4 November 2026",
+      "status": "Work in progress; not an endorsed W3C standard"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mind-your-words",
+  "description": "Selects a writing profile for English developer documentation or product content. Hybrid invocation - use when revising a technical guide, help article, UI text, or product explanation and the appropriate guide is unclear. Do NOT use for Chinese prose, academic submission rules, regulated instructions, legal drafting, or casual creative writing.\n",
+  "version": "0.3.0",
+  "license": "MIT",
+  "external_grounding": "n/a",
+  "metadata": {
+    "skill-author": "project",
+    "invocation_posture": "hybrid"
+  }
+}

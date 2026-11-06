@@ -1,0 +1,19 @@
+# Local dependencies and temporary output
+node_modules/
+coverage/
+*.log
+*.tmp
+*.bak
+.local/
+
+# Editor and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Private working material
+INTERNAL/
+drafts/
+.env
+.env.*

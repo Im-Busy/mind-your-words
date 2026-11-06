@@ -1,0 +1,11 @@
+{
+  "name": "mind-your-words-en-microsoft",
+  "description": "Revises English product writing using selected Microsoft style guidance. Hybrid invocation - use for UI text, error messages, help articles, and end-user product explanations. Do NOT use for developer API documentation, Chinese translation, academic submission rules, legal drafting, or regulated instructions.\n",
+  "version": "0.3.0",
+  "license": "CC-BY-4.0",
+  "external_grounding": "cite-only",
+  "metadata": {
+    "skill-author": "project",
+    "invocation_posture": "hybrid"
+  }
+}

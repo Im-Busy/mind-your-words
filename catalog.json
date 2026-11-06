@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "version": "0.3.0",
+  "skills": [
+    {
+      "name": "mind-your-words",
+      "path": "skills/mind-your-words",
+      "version": "0.3.0",
+      "kind": "router",
+      "license": "MIT",
+      "sources": [],
+      "routes": ["mind-your-words-en-google-dev", "mind-your-words-en-microsoft"]
+    },
+    {
+      "name": "mind-your-words-en-google-dev",
+      "path": "skills/mind-your-words-en-google-dev",
+      "version": "0.3.0",
+      "kind": "profile",
+      "license": "CC-BY-4.0",
+      "sources": ["google-tone", "google-procedures", "google-tense"],
+      "routes": []
+    },
+    {
+      "name": "mind-your-words-en-microsoft",
+      "path": "skills/mind-your-words-en-microsoft",
+      "version": "0.3.0",
+      "kind": "profile",
+      "license": "CC-BY-4.0",
+      "sources": ["microsoft-top-tips"],
+      "routes": []
+    },
+    {
+      "name": "mind-your-words-zh",
+      "path": "skills/mind-your-words-zh",
+      "version": "0.3.0",
+      "kind": "router",
+      "license": "MIT",
+      "sources": [],
+      "routes": ["mind-your-words-zh-clreq"]
+    },
+    {
+      "name": "mind-your-words-zh-clreq",
+      "path": "skills/mind-your-words-zh-clreq",
+      "version": "0.3.0",
+      "kind": "profile",
+      "license": "LicenseRef-W3C-2023",
+      "sources": ["w3c-clreq"],
+      "routes": []
+    }
+  ]
+}
